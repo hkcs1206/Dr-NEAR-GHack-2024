@@ -2,6 +2,17 @@
 
 The project aims to create a Medical Assistant application that helps users find appropriate healthcare providers based on their symptoms. This system utilizes a database that includes doctor profiles with details like name, location, experience, specialty, and user ratings and reviews. Another database lists common symptoms and the corresponding medical specialties required for treatment. The application employs a LinearSVC machine learning model from scikit-learn library to recommend doctors by matching their specialties, experience, and proximity to the user's location.
 
+## Live Features:
+
+- Recommendations based on symptoms, doctor experience, and user ratings.
+- Users can select doctors based on their availability according to their schedule.
+
+## Upcoming Features:
+
+- Implementation of NLP techniques to assess the authenticity of user reviews and calculate a "genuine score" for each doctor, enhancing recommendation reliability.
+- Integration of a WhatsApp chatbot for seamless communication, offering users an easy and accessible way to interact with the system.
+- Development of a voice-activated AI assistant to accommodate users who prefer voice input, improving accessibility and user experience.
+- Creation of a dedicated section for blogs authored by renowned doctors, covering various health topics such as emergency procedures and nutritional advice.
 
 ## Getting Started
 
