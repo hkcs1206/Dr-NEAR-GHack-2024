@@ -1,0 +1,11 @@
+Symptom,Severity,Duration(in days)
+Fever,Moderate,1
+Cough,Moderate,3
+Headache,Moderate,1
+Sore throat,Moderate,1
+Fatigue,Moderate,2
+Nausea,Moderate,3
+Shortness of breath,Moderate,1
+Muscle pain,Moderate,1
+Runny nose,Moderate,2
+Loss of taste or smell,Moderate,3
