@@ -91,6 +91,10 @@ To start the application, use the following command:
 ```bash
 streamlit run app.py
 ```
+## Screenshots
+
+<img width="726" alt="image" src="https://github.com/siriarelli/Dr-NEAR-GHack-2024/assets/106338462/a1fd585d-a105-40ff-8fb7-b822938fee31">
+
 ## Conclusion
 
 This README provides you with all the necessary steps to set up and run the Medical Assistant application on your local machine. If you follow these instructions carefully, you should be able to start the application without any issues. The application is designed to help you find suitable healthcare providers based on your symptoms. If you encounter any difficulties during the installation or operation of the application, please do not hesitate to reach out for support by emailing siriarelli1@gmail.com. Your feedback and queries are always welcome, as they help improve the project and assist you better.
